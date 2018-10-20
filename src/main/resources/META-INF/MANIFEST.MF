@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+Class-Path: poi-ooxml-3.17.jar neo4j-cypher-compiler-3.2-3.2.5.jar slf
+ 4j-api-1.7.25.jar lucene-queryparser-5.5.0.jar neo4j-cypher-compiler-
+ 3.3-3.3.0.jar mail-1.4.jar neo4j-cypher-ir-3.2-3.2.5.jar lucene-core-
+ 5.5.0.jar jsch-0.1.54.jar asm-5.2.jar neo4j-dbms-3.3.0.jar org.eclips
+ e.core.expressions-3.4.300.jar lucene-analyzers-common-5.5.0.jar org.
+ eclipse.core.jobs-3.5.100.jar commons-collections4-4.1.jar neo4j-coll
+ ections-3.3.0.jar logback-core-1.1.11.jar spring-web-4.3.13.RELEASE.j
+ ar asm-tree-5.2.jar jollyday-0.4.7.jar xalan-2.7.0.jar neo4j-import-t
+ ool-3.3.0.jar scala-library-2.11.11.jar neo4j-codegen-3.3.0.jar sprin
+ g-boot-starter-web-1.5.9.RELEASE.jar xml-apis-1.4.01.jar spring-webmv
+ c-4.3.13.RELEASE.jar httpclient-4.5.3.jar jboss-logging-3.3.1.Final.j
+ ar jaxb-api-2.2.7.jar org.eclipse.core.resources-3.7.100.jar spring-b
+ oot-autoconfigure-1.5.9.RELEASE.jar javax.json-api-1.0.jar lucene-bac
+ kward-codecs-5.5.0.jar stanford-corenlp-3.6.0-models.jar apache-mime4
+ j-core-0.7.2.jar xmlbeans-2.6.0.jar neo4j-cypher-frontend-2.3-2.3.11.
+ jar parboiled-scala_2.11-1.1.7.jar neo4j-ssl-3.3.0.jar neo4j-graphdb-
+ api-3.3.0.jar hanlp-portable-1.6.1.jar neo4j-resource-3.3.0.jar stanf
+ ord-corenlp-3.6.0.jar poi-ooxml-schemas-3.17.jar jsr305-1.3.9.jar val
+ idation-api-1.1.0.Final.jar xercesImpl-2.8.0.jar tomcat-embed-core-8.
+ 5.23.jar neo4j-io-3.3.0.jar org.eclipse.osgi-3.7.1.jar spring-boot-st
+ arter-tomcat-1.5.9.RELEASE.jar lucene-codecs-5.5.0.jar org.eclipse.co
+ re.contenttype-3.4.100.jar checker-compat-qual-2.0.0.jar org.eclipse.
+ core.commands-3.6.0.jar hibernate-validator-5.3.6.Final.jar org.eclip
+ se.equinox.preferences-3.4.1.jar spring-aop-4.3.13.RELEASE.jar concur
+ rentlinkedhashmap-lru-1.4.2.jar caffeine-2.3.5.jar neo4j-lucene-upgra
+ de-3.3.0.jar tomcat-embed-el-8.5.23.jar logback-classic-1.1.11.jar to
+ mcat-annotations-api-8.5.23.jar snakeyaml-1.17.jar neo4j-cypher-compi
+ ler-3.1-3.1.6.jar neo4j-graph-matching-3.1.6.jar asm-util-5.2.jar Jav
+ aEWAH-1.1.6.jar j2objc-annotations-1.1.jar stanford-corenlp-3.6.0-mod
+ els-chinese.jar neo4j-3.3.0.jar ejml-0.23.jar neo4j-primitive-collect
+ ions-3.3.0.jar netty-all-4.1.15.Final.jar spring-boot-configuration-p
+ rocessor-1.5.9.RELEASE.jar httpcore-4.4.8.jar parboiled-core-1.1.7.ja
+ r neo4j-cypher-ir-3.3-3.3.0.jar scala-reflect-2.11.11.jar neo4j-loggi
+ ng-3.3.0.jar org.eclipse.equinox.registry-3.5.101.jar spring-boot-sta
+ rter-logging-1.5.9.RELEASE.jar org.eclipse.equinox.common-3.6.0.jar o
+ rg.eclipse.core.runtime-3.7.0.jar neo4j-cypher-3.3.0.jar neo4j-config
+ uration-3.3.0.jar neo4j-cypher-compiler-2.3-2.3.11.jar android-json-0
+ .0.20131108.vaadin1.jar bcpkix-jdk15on-1.53.jar curvesapi-1.04.jar ja
+ ckson-core-2.8.10.jar animal-sniffer-annotations-1.14.jar poi-3.17.ja
+ r neo4j-command-line-3.3.0.jar asm-analysis-5.2.jar neo4j-unsafe-3.3.
+ 0.jar neo4j-consistency-check-3.3.0.jar org.eclipse.jdt.core-3.10.0.j
+ ar neo4j-cypher-logical-plans-3.3-3.3.0.jar jul-to-slf4j-1.7.25.jar l
+ og4j-over-slf4j-1.7.25.jar neo4j-values-3.3.0.jar neo4j-jmx-3.3.0.jar
+  commons-lang3-3.5.jar neo4j-cypher-frontend-3.3-3.3.0.jar spring-boo
+ t-1.5.9.RELEASE.jar neo4j-common-3.3.0.jar org.eclipse.equinox.app-1.
+ 3.100.jar neo4j-cypher-frontend-3.2-3.2.5.jar commons-io-2.6.jar comm
+ ons-text-1.1.jar neo4j-cypher-frontend-3.1-3.1.6.jar opencsv-2.3.jar 
+ bcprov-jdk15on-1.53.jar classmate-1.3.4.jar spring-expression-4.3.13.
+ RELEASE.jar neo4j-udc-3.3.0.jar jcl-over-slf4j-1.7.25.jar spring-bean
+ s-4.3.13.RELEASE.jar jackson-databind-2.8.10.jar commons-compress-1.1
+ 2.jar activation-1.1.jar org.eclipse.text-3.5.101.jar org.eclipse.cor
+ e.filesystem-1.3.100.jar joda-time-2.9.9.jar spring-boot-starter-1.5.
+ 9.RELEASE.jar jsoup-1.11.2.jar commons-codec-1.10.jar neo4j-kernel-3.
+ 3.0.jar guava-24.0-jre.jar spring-core-4.3.13.RELEASE.jar neo4j-index
+ -3.3.0.jar neo4j-csv-3.3.0.jar xom-1.2.10.jar spring-context-4.3.13.R
+ ELEASE.jar tomcat-embed-websocket-8.5.23.jar stax-api-1.0.1.jar neo4j
+ -graph-algo-3.3.0.jar org.eclipse.jgit-4.10.0.201712302008-r.jar jack
+ son-annotations-2.8.0.jar error_prone_annotations-2.1.3.jar neo4j-luc
+ ene-index-3.3.0.jar
+Main-Class: cn.edu.pku.sei.intellide.graph.webapp.SnowView
+
